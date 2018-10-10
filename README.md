@@ -5,6 +5,10 @@ This project is more of a quick start for Terraform remote states. It doesn't pr
 ## Install Terraform First: 
 >I like to run Terraform as `tf` for shorthand so we'll make a link to it (steps 4 and 5), these steps (4 and 5) aren't required. 
 
+Download: https://www.terraform.io/downloads.html
+
+This is written for Mac users but you can adjust accordingly. 
+
 Assuming you've downloaded the terraform executable to `~/Downloads`:
 1. `cd ~/Downloads/`
 2. `chmod +x terraform`
